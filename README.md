@@ -6,3 +6,5 @@ Can you GH?
 * Make it a BRANCH from a FORK in your account.
 
 * Yes ...
+
+I can properly submit a PR
