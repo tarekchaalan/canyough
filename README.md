@@ -7,4 +7,4 @@ Can you GH?
 
 * Yes Aren Ashikian can branch from a fork
   
-<img src="img_chania.jpg" alt="Flowers in Chania">
+In fact some may say I'm pretty cool :) 
