@@ -7,6 +7,4 @@ Can you GH?
 
 * Yes Aren Ashikian can branch from a fork
   
-# Brisket
-
-![brisket](https://cdn.discordapp.com/attachments/936426864845680640/1144069620446265354/brisket.png)
+<img src="img_chania.jpg" alt="Flowers in Chania">
