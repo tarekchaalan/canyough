@@ -5,8 +5,6 @@ Can you GH?
 
 * Make it a BRANCH from a FORK in your account.
 
-* Yes....
+* Yes Aren Ashikian can branch from a fork
   
-# Brisket
-
-![brisket](https://cdn.discordapp.com/attachments/936426864845680640/1144069620446265354/brisket.png)
+In fact some may say I'm pretty cool :) 
