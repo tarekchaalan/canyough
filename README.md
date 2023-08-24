@@ -5,6 +5,4 @@ Can you GH?
 
 * Make it a BRANCH from a FORK in your account.
 
-* Yes Aren Ashikian can branch from a fork
-  
-In fact some may say I'm pretty cool :) 
+* Yes ...
